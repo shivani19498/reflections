@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Viewing a diff or fc listed out all the differences between the two versions of
+a file.I went through all the alteration that were displayed and finally,I found 
+the bug.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+Having entire history of a file makes it easy to see the mistakes I did in the
+previous versions of the file.I can make alterations in my project using the 
+history.And,most importantly,I can learn from my mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google 
+Docs does?
+
+Pros:If it is my project,no one knows better about it than me.I know the best time to 
+commit.
+Cons:Sometime one can forget to commit,in such a situation manual commits are not a 
+good option.
+
+Why do you think some version control systems, like Git, allow saving multiple files
+ in one commit, while others, like Google Docs, treat each file separately?
+
+ Git, basically handles code.It is possible that two or more files can be related
+ to each other(one file can be using a function present in another file),thus saving
+ multiple file in one commit is a useful practice.
+
+ How can you use the commands git log and git diff to view the history of files?
+
+ git log command is used to see all the previous commits on a file
+ git diff command is used to view all the differences between between two versions 
+ of a file
+
+ How might using version control make you more confident to make changes that could 
+ break something?
+
+ Since we can restore the previous versions of the project using "git checkout commitId"
+ ,it becomes easier to make changes.
+
+ Now that you have your workspace set up, what do you want to try using Git for?
+
+ Maybe,I would like to start working on a code and apply git commands like commit,log,git
+ ,diff,checkout,etc.
