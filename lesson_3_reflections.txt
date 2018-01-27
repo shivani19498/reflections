@@ -7,3 +7,11 @@ stay up-to-date with your remote repository?
 
 Ans.Sometimes,I may not be working on my computer or I may not have made the changes myself.
 In such situations,I will need to pull changes manually.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+Forking a repository means copying someone else's repository to you github profile.
+Cloning a repository refers to copying a repository to your local machine using the URL.
+Branching refers to adding some changes to your own repository and committing them and 
+giving them a label.
