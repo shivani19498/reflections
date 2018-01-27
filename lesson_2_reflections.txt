@@ -35,3 +35,11 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams help us a lot to understand the concept of branching as it shows how branches are created
 and merged,also gives an overview about the parent relationshipS
+
+What is the result of merging two branches together? Why do we represent it in the diagram the
+ way we do?
+
+ Merging two branches together would result in a version consisiting of the features of both the 
+ branches.Basically,we are combining the changes of both the branches and then we are committing the
+ change as one big logical change.
+ We represent it that way in the diagram to show that two branches are becoming one.
