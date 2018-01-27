@@ -43,3 +43,11 @@ What is the result of merging two branches together? Why do we represent it in t
  branches.Basically,we are combining the changes of both the branches and then we are committing the
  change as one big logical change.
  We represent it that way in the diagram to show that two branches are becoming one.
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ Git's automatic merging is useful in situations where git can easily merge the two versions but can 
+ prove to be not got in amiguous situations where changes are not quite obvious.
+ Manual merging can prove to be tedious if we have to do it everytime we merge versions.But 
+ sometimes merging needs to be manual in situations where git cannot decide which changes to
+ keep and what to discard.
