@@ -10,3 +10,23 @@ How is the staging area different from the working directory and the repository?
 staging area is basically that part of the repository which helps us to make 
 commits.We add those files to the staging area in which we want to make some
 logical changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can use the staging area to to make sure that we have one commit per logical change
+by adding only one file at a time to the staging area.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Sometimes we want to fix bugs,add a new feature to our project or update some documentation
+.This will create a series of linear commits.There are times when we want to add some experimental
+feature to our project,but still want to have a copy without that feature to show it to our
+colleagues.In such a situation there would be two versions of our project and branch feature of
+git is useful in such situations.
+There can be a branch that can track active work.
+Master branch-Production quality work
+I would create a new branch whenever I start doing something different in my project.
+CONTEXT SWITCHING
+Branches would help us to create labels for our versions and we can easily switchto that label
+and make it as the master branch and start working with it.
