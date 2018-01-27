@@ -30,3 +30,8 @@ I would create a new branch whenever I start doing something different in my pro
 CONTEXT SWITCHING
 Branches would help us to create labels for our versions and we can easily switchto that label
 and make it as the master branch and start working with it.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help us a lot to understand the concept of branching as it shows how branches are created
+and merged,also gives an overview about the parent relationshipS
