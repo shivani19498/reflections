@@ -8,10 +8,20 @@ stay up-to-date with your remote repository?
 Ans.Sometimes,I may not be working on my computer or I may not have made the changes myself.
 In such situations,I will need to pull changes manually.
 
-Describe the differences between forks, clones, and branches. When would you use one 
+Q-3.Describe the differences between forks, clones, and branches. When would you use one 
 instead of another?
 
-Forking a repository means copying someone else's repository to you github profile.
+Ans.Forking a repository means copying someone else's repository to you github profile.
 Cloning a repository refers to copying a repository to your local machine using the URL.
 Branching refers to adding some changes to your own repository and committing them and 
 giving them a label.
+
+Q-4.What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+Ans.If I am about to go without Internet access for a while, for example to work
+on a plane, I can update my local copy before I leave.  I can do this even
+if I'm not ready to merge those changes into my own branches yet.  Then if I
+want, I can perform the merge while offline, or I need to know what the
+remote version is at some point, I have an easy way to access it.
+
