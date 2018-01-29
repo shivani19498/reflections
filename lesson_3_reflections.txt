@@ -32,3 +32,10 @@ Q-5.How would you collaborate without using Git or GitHub? What would be easier,
  We would have to create different files for different versions and that would create a lot
  of chaos.Also,it would be very difficult to share those while if we are collaborating.
 
+ Q-6.When would you want to make changes in a separate branch rather than directly in master? 
+ What benefits does each approach have?
+
+ Ans.If I want to add a feature to my software but I am not sure about it,I'll make a separate
+ branch for it rather than adding it in the main branch.I can work on that feature side-by-side and
+ I'll merge it in my master branch once I am sure about it.
+
