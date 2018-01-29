@@ -25,3 +25,10 @@ if I'm not ready to merge those changes into my own branches yet.  Then if I
 want, I can perform the merge while offline, or I need to know what the
 remote version is at some point, I have an easy way to access it.
 
+Q-5.How would you collaborate without using Git or GitHub? What would be easier,
+ and what would be harder?
+
+ Ans.Offcourse it would be much harder to collaborate without any version control.
+ We would have to create different files for different versions and that would create a lot
+ of chaos.Also,it would be very difficult to share those while if we are collaborating.
+
